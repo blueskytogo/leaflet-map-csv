@@ -6,6 +6,6 @@ Build a simple Leaflet map with point markers from a CSV file.
 </p>
 
 ## Demo
-https://handsondataviz.github.io/leaflet-map-csv/
+https://blueskytogo.github.io/leaflet-map-csv/
 ## Tutorial
 https://handsondataviz.org/leaflet-maps-with-csv.html
